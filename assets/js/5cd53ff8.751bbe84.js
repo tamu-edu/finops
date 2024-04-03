@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfin_ops=self.webpackChunkfin_ops||[]).push([[4151],{8890:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/finops/blog/tags/facebook","allTagsPath":"/finops/blog/tags","count":1,"unlisted":false}')}}]);

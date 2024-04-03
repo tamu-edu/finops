@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfin_ops=self.webpackChunkfin_ops||[]).push([[3799],{3660:o=>{o.exports=JSON.parse('{"permalink":"/finops/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
