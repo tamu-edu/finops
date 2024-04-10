@@ -139,3 +139,5 @@ const config = {
 };
 
 export default config;
+
+>>>>>>> d028c445b6869ff08bada32ec0113d0751f18eed
